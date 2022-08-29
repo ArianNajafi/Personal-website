@@ -1,0 +1,29 @@
+.contactMe{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactMe_title{
+    margin-top: 50px;
+    font-size: 2rem;
+    font-weight: 600;
+    color: rgb(65, 65, 65);
+}
+
+.contactMe_box{
+    display: flex;
+    align-items: center;
+    width: 70vw;
+    min-height: 55px;
+    background-color: rgb(165, 165, 165);
+    border-radius: 10px;
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+.contactMe_icons{
+    margin-left: 90px;
+    margin-right: 5px;
+}
